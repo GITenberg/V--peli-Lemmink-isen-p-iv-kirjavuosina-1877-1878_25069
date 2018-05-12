@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25069#V--peli-Lemmink-isen-p-iv-kirjavuosina-1877-1878
 gutenberg_issued: '2008-04-14'
 gutenberg_type: Text
 identifiers:
